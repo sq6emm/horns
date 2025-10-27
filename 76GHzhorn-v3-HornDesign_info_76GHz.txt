@@ -1,0 +1,15 @@
+CALCULATED HORN DIMENSIONS:
+
+At a center frequency of 76032.2 MHz:
+
+With waveguide H-plane inside dimension of 3.10 mm 
+With waveguide E-plane inside dimension of 1.55 mm 
+
+Axial length of horn is 72.16 mm 
+H-plane aperture of horn is 32.78 mm 
+E-plane aperture of horn is 24.28 mm 
+Simple gain of horn is 25.76 dBi
+Improved gain of horn is 25.03 dBi
+H-Plane phase center is 12.32 wavelengths inside horn mouth
+E-Plane phase center is 8.78 wavelengths inside horn mouth
+
