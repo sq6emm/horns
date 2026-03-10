@@ -25,15 +25,15 @@ $EXTMIN
  10
 -70
  20
--76.87777777777778
+-60
  30
 0
   9
 $EXTMAX
  10
-129.4022222222222
+70
  20
-117.0111111111111
+60
  30
 0
   9
@@ -91,7 +91,7 @@ STANDARD
   9
 $CLAYER
   8
-Laser Engrave
+LASER ENGRAVE
   9
 $CELTYPE
   6
@@ -311,7 +311,7 @@ $DIMUPT
   9
 $DIMDEC
  70
-    2
+    4
   9
 $DIMTDEC
  70
@@ -843,7 +843,7 @@ $TREEDEPTH
   9
 $CMLSTYLE
   2
-STANDARD
+Standard
   9
 $CMLJUST
  70
@@ -1115,9 +1115,9 @@ AcDbViewportTableRecord
  21
 1
  12
-80.3463754522423
+89.03284892386958
  22
-45.2994538682564
+43.03606830405572
  13
 0
  23
@@ -1143,7 +1143,7 @@ AcDbViewportTableRecord
  37
 0
  40
-180.570109414805
+182.5067663213763
  41
 1.79026651216686
  42
@@ -2255,7 +2255,7 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-Laser Engrave
+LASER ENGRAVE
  70
     0
  62
@@ -2263,7 +2263,7 @@ Laser Engrave
   6
 CONTINUOUS
 370
-   20
+   -3
 390
 F
   0
@@ -2277,7 +2277,7 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-Object Top
+OBJECT TOP
  70
     0
  62
@@ -2313,7 +2313,7 @@ AcDbSymbolTableRecord
 100
 AcDbTextStyleTableRecord
   2
-opengosttypea-regular
+OPENGOSTTYPEA-REGULAR
  70
     0
  40
@@ -2327,7 +2327,7 @@ opengosttypea-regular
  42
 1
   3
-opengosttypea-regular
+OPENGOSTTYPEA-REGULAR
   4
 
   0
@@ -2461,7 +2461,7 @@ Standard
  70
     0
  40
-1
+2.5
  41
 2.5
  42
@@ -2485,7 +2485,7 @@ Standard
 141
 0.09
 142
-2.5
+0
 143
 25.4
 144
@@ -2513,7 +2513,7 @@ Standard
  77
     0
  78
-    1
+    8
  79
     0
 170
@@ -2537,7 +2537,7 @@ Standard
 179
     0
 271
-    2
+    4
 272
     4
 273
@@ -2573,7 +2573,7 @@ Standard
 289
     3
 340
-STANDARD
+standard
 341
 
 371
@@ -2727,7 +2727,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -2751,7 +2751,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -2775,7 +2775,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -2799,7 +2799,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -2823,7 +2823,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -2847,7 +2847,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -2869,7 +2869,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -2891,7 +2891,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -2915,7 +2915,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -2939,7 +2939,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -2963,7 +2963,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -2987,7 +2987,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3011,7 +3011,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3035,7 +3035,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3059,7 +3059,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3081,7 +3081,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3105,7 +3105,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3127,7 +3127,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3151,7 +3151,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3173,7 +3173,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3197,7 +3197,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3219,7 +3219,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3243,7 +3243,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3267,7 +3267,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3291,7 +3291,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3315,7 +3315,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3339,7 +3339,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3361,7 +3361,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3383,7 +3383,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3405,7 +3405,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3427,7 +3427,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3449,7 +3449,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3471,7 +3471,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3493,7 +3493,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3515,7 +3515,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3537,7 +3537,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3559,7 +3559,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3581,7 +3581,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3603,7 +3603,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3625,7 +3625,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3647,7 +3647,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3669,7 +3669,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3691,7 +3691,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3713,7 +3713,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3735,7 +3735,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3757,7 +3757,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3779,7 +3779,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3801,7 +3801,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3823,7 +3823,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3845,7 +3845,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3867,7 +3867,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3889,7 +3889,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3911,7 +3911,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3935,7 +3935,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3959,7 +3959,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -3983,7 +3983,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4007,7 +4007,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4031,7 +4031,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4055,7 +4055,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4079,7 +4079,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4103,7 +4103,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4125,7 +4125,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4149,7 +4149,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4171,7 +4171,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4195,7 +4195,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4217,7 +4217,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4241,7 +4241,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4263,7 +4263,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4287,7 +4287,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4309,7 +4309,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4333,7 +4333,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4355,7 +4355,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4379,7 +4379,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4401,7 +4401,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4425,7 +4425,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4447,7 +4447,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4471,7 +4471,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4495,7 +4495,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4517,7 +4517,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4541,7 +4541,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4563,7 +4563,7 @@ A0
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4587,7 +4587,7 @@ A1
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4609,7 +4609,7 @@ A2
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4633,7 +4633,7 @@ A3
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4655,7 +4655,7 @@ A4
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4679,7 +4679,7 @@ A5
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4701,7 +4701,7 @@ A6
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4725,7 +4725,7 @@ A7
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4747,7 +4747,7 @@ A8
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4771,7 +4771,7 @@ A9
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4793,7 +4793,7 @@ AA
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4817,7 +4817,7 @@ AB
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4839,7 +4839,7 @@ AC
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4863,7 +4863,7 @@ AD
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4885,7 +4885,7 @@ AE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4909,7 +4909,7 @@ AF
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4931,7 +4931,7 @@ B0
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4955,7 +4955,7 @@ B1
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -4977,7 +4977,7 @@ B2
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5001,7 +5001,7 @@ B3
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5023,7 +5023,7 @@ B4
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5047,7 +5047,7 @@ B5
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5069,7 +5069,7 @@ B6
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5093,7 +5093,7 @@ B7
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5115,7 +5115,7 @@ B8
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5139,7 +5139,7 @@ B9
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5161,7 +5161,7 @@ BA
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5185,7 +5185,7 @@ BB
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5207,7 +5207,7 @@ BC
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5231,7 +5231,7 @@ BD
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5253,7 +5253,7 @@ BE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5277,7 +5277,7 @@ BF
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5299,7 +5299,7 @@ C0
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5323,7 +5323,7 @@ C1
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5345,7 +5345,7 @@ C2
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5369,7 +5369,7 @@ C3
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5391,7 +5391,7 @@ C4
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5415,7 +5415,7 @@ C5
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5437,7 +5437,7 @@ C6
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5461,7 +5461,7 @@ C7
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5483,7 +5483,7 @@ C8
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5505,7 +5505,7 @@ C9
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5529,7 +5529,7 @@ CA
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5551,7 +5551,7 @@ CB
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5575,7 +5575,7 @@ CC
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5597,7 +5597,7 @@ CD
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5619,7 +5619,7 @@ CE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5643,7 +5643,7 @@ CF
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5667,7 +5667,7 @@ D0
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5689,7 +5689,7 @@ D1
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5711,7 +5711,7 @@ D2
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5733,7 +5733,7 @@ D3
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5757,7 +5757,7 @@ D4
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5779,7 +5779,7 @@ D5
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5803,7 +5803,7 @@ D6
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5825,7 +5825,7 @@ D7
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5847,7 +5847,7 @@ D8
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5871,7 +5871,7 @@ D9
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5895,7 +5895,7 @@ DA
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5917,7 +5917,7 @@ DB
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5939,7 +5939,7 @@ DC
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5961,7 +5961,7 @@ DD
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -5985,7 +5985,7 @@ DE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6007,7 +6007,7 @@ DF
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6031,7 +6031,7 @@ E0
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6053,7 +6053,7 @@ E1
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6075,7 +6075,7 @@ E2
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6099,7 +6099,7 @@ E3
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6123,7 +6123,7 @@ E4
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6145,7 +6145,7 @@ E5
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6167,7 +6167,7 @@ E6
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6189,7 +6189,7 @@ E7
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6213,7 +6213,7 @@ E8
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6235,7 +6235,7 @@ E9
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6259,7 +6259,7 @@ EA
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6281,7 +6281,7 @@ EB
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6303,7 +6303,7 @@ EC
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6327,7 +6327,7 @@ ED
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6351,7 +6351,7 @@ EE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6373,7 +6373,7 @@ EF
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6395,7 +6395,7 @@ F0
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6417,7 +6417,7 @@ F1
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6441,7 +6441,7 @@ F2
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6463,7 +6463,7 @@ F3
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6487,7 +6487,7 @@ F4
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6509,7 +6509,7 @@ F5
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6531,7 +6531,7 @@ F6
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6555,7 +6555,7 @@ F7
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6579,7 +6579,7 @@ F8
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6601,7 +6601,7 @@ F9
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6623,7 +6623,7 @@ FA
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6645,7 +6645,7 @@ FB
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6669,7 +6669,7 @@ FC
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6691,7 +6691,7 @@ FD
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6715,7 +6715,7 @@ FE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6737,7 +6737,7 @@ FF
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6759,7 +6759,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6783,7 +6783,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6807,7 +6807,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6829,7 +6829,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6851,7 +6851,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6873,7 +6873,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6897,7 +6897,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6919,7 +6919,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6943,7 +6943,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6965,7 +6965,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -6987,7 +6987,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7011,7 +7011,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7035,7 +7035,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7057,7 +7057,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7079,7 +7079,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7101,7 +7101,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7125,7 +7125,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7147,7 +7147,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7171,7 +7171,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7193,7 +7193,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7217,7 +7217,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7239,7 +7239,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7263,7 +7263,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7285,7 +7285,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7309,7 +7309,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7331,7 +7331,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7355,7 +7355,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7377,7 +7377,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7401,7 +7401,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7423,7 +7423,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7447,7 +7447,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7471,7 +7471,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7495,7 +7495,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7519,7 +7519,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7543,7 +7543,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7567,7 +7567,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7591,7 +7591,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7615,7 +7615,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7639,7 +7639,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7663,7 +7663,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7687,7 +7687,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7711,7 +7711,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7735,7 +7735,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7759,7 +7759,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7783,7 +7783,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7807,7 +7807,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7831,7 +7831,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7853,7 +7853,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7875,7 +7875,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7897,7 +7897,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7919,7 +7919,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7941,7 +7941,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7963,7 +7963,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -7985,7 +7985,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8007,7 +8007,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8029,7 +8029,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8051,7 +8051,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8073,7 +8073,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8095,7 +8095,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8117,7 +8117,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8139,7 +8139,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8161,7 +8161,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8183,7 +8183,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8205,7 +8205,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8227,7 +8227,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8249,7 +8249,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8271,7 +8271,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8293,7 +8293,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8315,7 +8315,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8337,7 +8337,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8359,7 +8359,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8381,7 +8381,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8403,7 +8403,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8425,7 +8425,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8447,7 +8447,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8469,7 +8469,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8491,7 +8491,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8513,7 +8513,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8535,7 +8535,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8559,7 +8559,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8581,7 +8581,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8605,7 +8605,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8627,7 +8627,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8649,7 +8649,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8673,7 +8673,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8695,7 +8695,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8719,7 +8719,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8741,7 +8741,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8763,7 +8763,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8787,7 +8787,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8809,7 +8809,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8833,7 +8833,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8855,7 +8855,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8877,7 +8877,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8901,7 +8901,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8923,7 +8923,7 @@ LINE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8947,7 +8947,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8969,7 +8969,7 @@ CIRCLE
 100
 AcDbEntity
   8
-Object Top
+OBJECT TOP
   6
 ByLayer
  62
@@ -8985,51 +8985,841 @@ AcDbCircle
  40
 1.45
   0
-MTEXT
+TEXT
   5
 162
 100
 AcDbEntity
   8
-Laser Engrave
+LASER ENGRAVE
   6
-ByLayer
+CONTINUOUS
  62
-  256
+    1
 370
-   -1
+   -3
 100
-AcDbMText
+AcDbText
  10
-60
+66
  20
 -50
  30
 0
  40
 6
- 41
-101.3571433333333
- 71
-    1
- 72
-    1
   1
-SQ6EMM v2.1 24GHz horn
+S
+ 50
+90
+ 41
+1
+ 51
+0
   7
-opengosttypea-regular
+OPENGOSTTYPEA-REGULAR
+ 71
+    0
 210
 0
 220
 0
 230
 1
+100
+AcDbText
+  0
+TEXT
+  5
+163
+100
+AcDbEntity
+  8
+LASER ENGRAVE
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbText
+ 10
+66
+ 20
+-45
+ 30
+0
+ 40
+6
+  1
+Q
  50
 90
- 73
-    2
- 44
+ 41
 1
+ 51
+0
+  7
+OPENGOSTTYPEA-REGULAR
+ 71
+    0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
+  0
+TEXT
+  5
+164
+100
+AcDbEntity
+  8
+LASER ENGRAVE
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbText
+ 10
+66
+ 20
+-39.57142866666667
+ 30
+0
+ 40
+6
+  1
+6
+ 50
+90
+ 41
+1
+ 51
+0
+  7
+OPENGOSTTYPEA-REGULAR
+ 71
+    0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
+  0
+TEXT
+  5
+165
+100
+AcDbEntity
+  8
+LASER ENGRAVE
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbText
+ 10
+66
+ 20
+-34.57142866666667
+ 30
+0
+ 40
+6
+  1
+E
+ 50
+90
+ 41
+1
+ 51
+0
+  7
+OPENGOSTTYPEA-REGULAR
+ 71
+    0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
+  0
+TEXT
+  5
+166
+100
+AcDbEntity
+  8
+LASER ENGRAVE
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbText
+ 10
+66
+ 20
+-30
+ 30
+0
+ 40
+6
+  1
+M
+ 50
+90
+ 41
+1
+ 51
+0
+  7
+OPENGOSTTYPEA-REGULAR
+ 71
+    0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
+  0
+TEXT
+  5
+167
+100
+AcDbEntity
+  8
+LASER ENGRAVE
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbText
+ 10
+66
+ 20
+-24.14285733333334
+ 30
+0
+ 40
+6
+  1
+M
+ 50
+90
+ 41
+1
+ 51
+0
+  7
+OPENGOSTTYPEA-REGULAR
+ 71
+    0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
+  0
+TEXT
+  5
+168
+100
+AcDbEntity
+  8
+LASER ENGRAVE
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbText
+ 10
+66
+ 20
+-13.78571466666667
+ 30
+0
+ 40
+6
+  1
+v
+ 50
+90
+ 41
+1
+ 51
+0
+  7
+OPENGOSTTYPEA-REGULAR
+ 71
+    0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
+  0
+TEXT
+  5
+169
+100
+AcDbEntity
+  8
+LASER ENGRAVE
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbText
+ 10
+66
+ 20
+-9.214286000000001
+ 30
+0
+ 40
+6
+  1
+2
+ 50
+90
+ 41
+1
+ 51
+0
+  7
+OPENGOSTTYPEA-REGULAR
+ 71
+    0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
+  0
+TEXT
+  5
+16A
+100
+AcDbEntity
+  8
+LASER ENGRAVE
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbText
+ 10
+66
+ 20
+-4.214286000000001
+ 30
+0
+ 40
+6
+  1
+.
+ 50
+90
+ 41
+1
+ 51
+0
+  7
+OPENGOSTTYPEA-REGULAR
+ 71
+    0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
+  0
+TEXT
+  5
+16B
+100
+AcDbEntity
+  8
+LASER ENGRAVE
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbText
+ 10
+66
+ 20
+-1.785714666666664
+ 30
+0
+ 40
+6
+  1
+1
+ 50
+90
+ 41
+1
+ 51
+0
+  7
+OPENGOSTTYPEA-REGULAR
+ 71
+    0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
+  0
+TEXT
+  5
+16C
+100
+AcDbEntity
+  8
+LASER ENGRAVE
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbText
+ 10
+66
+ 20
+6.428571333333338
+ 30
+0
+ 40
+6
+  1
+2
+ 50
+90
+ 41
+1
+ 51
+0
+  7
+OPENGOSTTYPEA-REGULAR
+ 71
+    0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
+  0
+TEXT
+  5
+16D
+100
+AcDbEntity
+  8
+LASER ENGRAVE
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbText
+ 10
+66
+ 20
+11.42857133333334
+ 30
+0
+ 40
+6
+  1
+4
+ 50
+90
+ 41
+1
+ 51
+0
+  7
+OPENGOSTTYPEA-REGULAR
+ 71
+    0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
+  0
+TEXT
+  5
+16E
+100
+AcDbEntity
+  8
+LASER ENGRAVE
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbText
+ 10
+66
+ 20
+16.42857133333334
+ 30
+0
+ 40
+6
+  1
+G
+ 50
+90
+ 41
+1
+ 51
+0
+  7
+OPENGOSTTYPEA-REGULAR
+ 71
+    0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
+  0
+TEXT
+  5
+16F
+100
+AcDbEntity
+  8
+LASER ENGRAVE
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbText
+ 10
+66
+ 20
+21.42857133333334
+ 30
+0
+ 40
+6
+  1
+H
+ 50
+90
+ 41
+1
+ 51
+0
+  7
+OPENGOSTTYPEA-REGULAR
+ 71
+    0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
+  0
+TEXT
+  5
+170
+100
+AcDbEntity
+  8
+LASER ENGRAVE
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbText
+ 10
+66
+ 20
+26.42857133333334
+ 30
+0
+ 40
+6
+  1
+z
+ 50
+90
+ 41
+1
+ 51
+0
+  7
+OPENGOSTTYPEA-REGULAR
+ 71
+    0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
+  0
+TEXT
+  5
+171
+100
+AcDbEntity
+  8
+LASER ENGRAVE
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbText
+ 10
+66
+ 20
+35.5
+ 30
+0
+ 40
+6
+  1
+h
+ 50
+90
+ 41
+1
+ 51
+0
+  7
+OPENGOSTTYPEA-REGULAR
+ 71
+    0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
+  0
+TEXT
+  5
+172
+100
+AcDbEntity
+  8
+LASER ENGRAVE
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbText
+ 10
+66
+ 20
+40.07142866666666
+ 30
+0
+ 40
+6
+  1
+o
+ 50
+90
+ 41
+1
+ 51
+0
+  7
+OPENGOSTTYPEA-REGULAR
+ 71
+    0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
+  0
+TEXT
+  5
+173
+100
+AcDbEntity
+  8
+LASER ENGRAVE
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbText
+ 10
+66
+ 20
+44.64285733333334
+ 30
+0
+ 40
+6
+  1
+r
+ 50
+90
+ 41
+1
+ 51
+0
+  7
+OPENGOSTTYPEA-REGULAR
+ 71
+    0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
+  0
+TEXT
+  5
+174
+100
+AcDbEntity
+  8
+LASER ENGRAVE
+  6
+CONTINUOUS
+ 62
+    1
+370
+   -3
+100
+AcDbText
+ 10
+66
+ 20
+48.78571466666666
+ 30
+0
+ 40
+6
+  1
+n
+ 50
+90
+ 41
+1
+ 51
+0
+  7
+OPENGOSTTYPEA-REGULAR
+ 71
+    0
+210
+0
+220
+0
+230
+1
+100
+AcDbText
   0
 ENDSEC
   0
@@ -9063,7 +9853,7 @@ AcDbDictionary
   0
 PLOTSETTINGS
   5
-163
+175
 100
 AcDbPlotSettings
   6
